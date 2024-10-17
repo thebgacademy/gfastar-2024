@@ -1,6 +1,6 @@
 Let's get some test files first:
 ```
-mv gfastar/docs/testFiles-gfastats/* .
+mv gfastar-2024/docs/testFiles-gfastats/* .
 ```
 Help:
 ```
