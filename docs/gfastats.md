@@ -28,7 +28,7 @@ gfastats random1.fasta --nstar-report
 ```
 Report by sequence:
 ```
-gfastats random1.fasta --seq-report
+gfastats random1.fasta --segment-report
 ```
 Original file:
 ```
