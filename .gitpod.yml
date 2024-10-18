@@ -26,5 +26,7 @@ tasks:
     wget https://genomeark.s3.amazonaws.com/trainingmaterials/BGA2023/filtered.fastq
     wget https://genomeark.s3.amazonaws.com/trainingmaterials/BGA2023/filtered2.fastq
     wget https://genomeark.s3.amazonaws.com/trainingmaterials/BGA2023/input.fa
-
+    wget https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.pat.cur.20231122.fasta.gz
+    wget https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.mat.cur.20231122.fasta.gz
+    wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/985/GCF_000002985.6_WBcel235/GCF_000002985.6_WBcel235_genomic.fna.gz
 workspaceLocation: "/workspace"
